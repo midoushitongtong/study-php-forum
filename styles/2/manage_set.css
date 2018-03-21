@@ -1,0 +1,37 @@
+@CHARSET "UTF-8";
+#member #member_main dl{
+	width:500px;
+	margin:15px auto;
+	font-size:14px;
+}
+#member #member_main dl dd{
+	padding:10px 0;
+	border-bottom:1px solid #999;
+}
+select{
+	width: 133px;
+}
+#member #member_main dl dd input.submit {
+	width: 133px;
+	height: 33px;
+	line-height: 33px;
+	border: 1px solid #8b8b8b;
+	background: white;
+	cursor: pointer;
+	margin: 0 0 0 133px;
+	outline: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

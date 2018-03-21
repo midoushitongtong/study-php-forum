@@ -1,0 +1,60 @@
+@CHARSET "UTF-8";
+#photo {
+	widht:auto;
+	height:800px;
+	border:2px solid #ccc;
+	font-size:12px;
+}
+#photo h2{
+	text-indent:0;
+	text-align:center;
+}
+#photo p {
+	text-align: center;
+	padding: 23px;
+}
+#photo p a {
+	font-size: 13.3px;
+	color: #838383;
+}
+#photo dl {
+	width: 266px;
+	margin: 23.3px auto;
+}
+#photo dl dd {
+	padding: 3px 0;
+}
+#photo dl dd#pass {
+	display: none;
+}
+#photo dl dd input.text {
+	border: 1px solid #838383;
+	width: 180px;
+	height: 19px;
+}
+#photo dl dd textarea {
+	width: 180px;
+	height: 66px;
+}
+#photo dl dd input.submit {
+	border: 1px solid #8b8b8b;
+	background: rgba(0,0,0,0.03);
+	width: 100px;
+	height: 23px;
+	cursor: pointer;
+	margin: 0 0 0 61px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

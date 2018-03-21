@@ -1,0 +1,90 @@
+@CHARSET "UTF-8";
+#photo {
+	widht:auto;
+	height:800px;
+	border:2px solid #ccc;
+}
+#photo h2{
+	text-indent:0;
+	text-align:center;
+}
+#photo p {
+	text-align: center;
+	padding: 23px;
+	clear: both;
+}
+#photo p a {
+	font-size: 13.3px;
+	color: rgba(0,0,0,0.6);
+}
+#photo dl {
+	width: 163px;
+	height: 169px;
+	margin: 13.6px;
+	float: left;
+	/*background: yellow;*/
+}
+#photo dl dt {
+	width: 93.888px;
+	height: 93.3px;
+	background: url(../../images/photo.jpg) no-repeat;
+	margin: 0 auto;
+	text-indent: -999999px;
+}
+#photo dl dt img {
+	display: block;
+	padding: 9.3px 0 0 13.3px;
+	border: none;
+}
+#photo dl dd {
+	width: 96.3px;
+	text-align: center;
+	margin: 0 auto;
+	padding: 6px 0 9px 0;
+	font-size: 13.3px;
+	height: 33px;
+}
+#photo dl dd a {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	color: #666;
+	font-weight: bold;
+	text-decoration: none;
+	
+}
+#photo dl dd a:hover {
+	color: rgba(0,0,0,0.8);
+}
+#photo dl dd span {
+	display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
